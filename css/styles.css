@@ -1,0 +1,26 @@
+ /* the stlye is put in the head section of the html  */
+body{
+ background-color: #EAF6F6;
+}
+/* Changine the stlye of repeated elemmets */
+/* Every single thing in html is maked of boxes(in relation to the horizontal rule) */
+hr{
+background-color: #EAF6F6;
+/* the none none is used as a featere for the sides of the rule */
+border-style: dotted none none;
+border-width: 5px;
+border-color: grey;
+width: 10%;
+}
+
+h1 {
+  color: #66FBFB
+
+}
+h2{
+  color: #66FBFB
+}
+h3{
+  color: #66FBFB
+}
+/* the style affects all elemmets in the html(CSS) */
